@@ -16,5 +16,5 @@ from pybricks.media.ev3dev import SoundFile, ImageFile
 ev3 = EV3Brick()
 
 
-# Write your program here.
+# 코드를 적으세요
 ev3.speaker.beep()
