@@ -18,4 +18,4 @@ ev3 = EV3Brick()
 
 # Write your program here.
 ev3.speaker.beep()
-print("edit")
+print("edit") #locked!
